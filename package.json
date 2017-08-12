@@ -1,0 +1,15 @@
+{
+  "name": "migration-stats-visualized",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:deciob/migration-stats-visualized.git",
+  "author": "deciob <decio.battaglia@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "csv": "^1.1.1",
+    "should": "^11.2.1"
+  },
+  "dependencies": {
+    "d3-chart-builder": "^0.0.3"
+  }
+}
