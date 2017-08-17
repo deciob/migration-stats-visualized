@@ -1,1 +1,10152 @@
-[]
+[
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 217418,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 257520,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 239048,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 247991,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 295105,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 327621,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 354580,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 379703,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 408314,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 439195,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 404902,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 413057,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 472183,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 489735,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 467841,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 447258,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 18224,
+    "year": 2000,
+    "variable": "outflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 21296,
+    "year": 2001,
+    "variable": "outflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 57382,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 55367,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 57912,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 59259,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 61613,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 55167,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 58515,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 62332,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 59566,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 63291,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 65151,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 131907,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 149572,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 172288,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 186682,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 208492,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 195990,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 165798,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 183092,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 188736,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 181699,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 192718,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 218733,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 250004,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 268858,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 306630,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 395310,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 88700,
+    "year": 2000,
+    "variable": "outflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 102008,
+    "year": 2001,
+    "variable": "outflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 88956,
+    "year": 2002,
+    "variable": "outflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 97879,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 100036,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 99600,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 110090,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 113286,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 120452,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 133631,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 136010,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 145091,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 148259,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 148496,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 152519,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 159111,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 211897,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 205119,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 226627,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 233368,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 256798,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 234152,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 245680,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 297347,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 101465,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 137718,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 156175,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 151222,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 141673,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 454792,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 501162,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 457838,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 442726,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 471644,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 524485,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 503278,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 473503,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 494476,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 504229,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 561145,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 497184,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 515350,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 517836,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 520350,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 543293,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 114876,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 101597,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 117147,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 132247,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 205674,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 152046,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 76277,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 56056,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 41317,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 57046,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 55649,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 76894,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 63123,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 66405,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 67565,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 43590,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 62772,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 36983,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 7645,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 4921,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 33352,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 54238,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 32041,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 117907,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 45104,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 48828,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 42703,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 36689,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 37281,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 40202,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 47893,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 62816,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 73937,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 63844,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 66804,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 69079,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 70927,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 82592,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 97914,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 115815,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 27941,
+    "year": 2000,
+    "variable": "outflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 29559,
+    "year": 2001,
+    "variable": "outflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 29716,
+    "year": 2002,
+    "variable": "outflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 31467,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 31477,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 32543,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 34497,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 37966,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 46643,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 53170,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 54155,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 53133,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 58183,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 59455,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 60828,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 18220,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 22074,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 19944,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 18864,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 23022,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 25488,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 27736,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 35008,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 39812,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 36174,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 36424,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 40832,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 46668,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 47746,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 47292,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 42821,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 8256,
+    "year": 2000,
+    "variable": "outflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 4314,
+    "year": 2001,
+    "variable": "outflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 5514,
+    "year": 2002,
+    "variable": "outflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 4556,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 8372,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 5264,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 5426,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 6226,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 8992,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 8074,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 6246,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 6668,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 8452,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 8470,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 10942,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 13354,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 182904,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 213157,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 247927,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 272212,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 282506,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 271570,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 388052,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 359500,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 362353,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 359889,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 366507,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 368597,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 396866,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 415698,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 492947,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 479454,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1245841,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1300944,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1316564,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1203416,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1203781,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1158299,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1102561,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1133447,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1139666,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1204881,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1358364,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1674171,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1920476,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 2201352,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 2657504,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 3975108,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1092811,
+    "year": 2000,
+    "variable": "outflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 958986,
+    "year": 2001,
+    "variable": "outflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1010904,
+    "year": 2002,
+    "variable": "outflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 997953,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1093293,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 967316,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 933150,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 931641,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1121101,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1154283,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1054083,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1073308,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1152343,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1308848,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1523059,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 1693948,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 39456,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 34767,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 37442,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 42894,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 51159,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 47064,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 45210,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 71019,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 51015,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 47767,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 45028,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 40415,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 42246,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 51781,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 51350,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 3784,
+    "year": 2001,
+    "variable": "outflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 4606,
+    "year": 2002,
+    "variable": "outflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 4959,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 6743,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 6640,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 7908,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 8262,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 8473,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 11188,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 12093,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 5374,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 19788,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 26140,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 21547,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 20657,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 4755,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 4870,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 3611,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 2626,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 4978,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 9356,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 14130,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 18635,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 14943,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 6781,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 5974,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 5505,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 5649,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 7852,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 8693,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 9879,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 1556,
+    "year": 2000,
+    "variable": "outflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 2088,
+    "year": 2001,
+    "variable": "outflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 2167,
+    "year": 2002,
+    "variable": "outflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 1703,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 3079,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 1875,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 3067,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 8035,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 11698,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 11510,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 6834,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 5686,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 4417,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 4594,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 4937,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 4433,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 370616,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 316577,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 843865,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 784229,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 561052,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 504069,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 1026308,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 986823,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 808486,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 845634,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 702867,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 637444,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 553955,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 492971,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 497444,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 17508,
+    "year": 2000,
+    "variable": "outflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 25770,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 28038,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 31902,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 33948,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 40632,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 54019,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 64537,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 65632,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 64682,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 76084,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 86700,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 94843,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 88781,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 650703,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 672734,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 688912,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 594099,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 574108,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 533820,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 607608,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 613203,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 672823,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 781986,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 437126,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 429232,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 468229,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 523844,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 485173,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 461608,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 438847,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 426456,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 425682,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 446864,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 346132,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 327784,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 317871,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 337745,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 357050,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 507434,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 605910,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 600709,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 604341,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 465675,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 586131,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 614482,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 600290,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 720936,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 814106,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 745858,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 308689,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 301080,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 529173,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 348423,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 304124,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 419963,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 466929,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 392133,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 435375,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 580062,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 536161,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 541030,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 602000,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 21584,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 22110,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 21976,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 25108,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 24490,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 27518,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 27462,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 31532,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 33600,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 29139,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 31432,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 38067,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 38659,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 39409,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 41916,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 45061,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 14050,
+    "year": 2000,
+    "variable": "outflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 15250,
+    "year": 2001,
+    "variable": "outflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 16538,
+    "year": 2002,
+    "variable": "outflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 13720,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 14994,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 14340,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 15356,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 17282,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 15913,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 14547,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 15201,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 14888,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 17111,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 17772,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 18812,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 20747,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 14372,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 31826,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 47698,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 36305,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 125979,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 86962,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 181753,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 188559,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 172278,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 146128,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 129369,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 126009,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 134455,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 159681,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 205185,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 208787,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 220435,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 236821,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 231273,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 244568,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 278619,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 318705,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 41418,
+    "year": 2000,
+    "variable": "outflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 63704,
+    "year": 2001,
+    "variable": "outflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 79188,
+    "year": 2002,
+    "variable": "outflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 87722,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 92148,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 94376,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 104968,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 95854,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 99504,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 114980,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 128079,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 140412,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 161503,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 166074,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 166863,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 170256,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 74914,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 108103,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 141065.131,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 129936.069,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 110819.10699999997,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 109594.212,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 117428.04,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 119205.02600000001,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 127820.04999999997,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 120652.098,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 115236.052,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 121993.05299999999,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 124089.04,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 135016,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 160576,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 183529,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 30672,
+    "year": 2001,
+    "variable": "outflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 31284.079000000005,
+    "year": 2002,
+    "variable": "outflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 37793.237,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 44364.850999999995,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 45581.102000000006,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 41015.569,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 42872.067,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 46094.962,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 47199.988,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 52556.717,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 52796.84,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 48733.058,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 46457,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 43333,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 44223,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 55536,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 50711,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 61377,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 53374,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 55487,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 62539,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 74634,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 106543,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 117522,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 113171,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 129953,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 141275,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 139798,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 133687,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 122675,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 117935,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 29850,
+    "year": 2000,
+    "variable": "outflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 30424,
+    "year": 2001,
+    "variable": "outflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 24532,
+    "year": 2002,
+    "variable": "outflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 28671,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 27691,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 25229,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 24963,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 26632,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 30317,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 36701,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 44937,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 45708,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 42533,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 50000,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 46579,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 54702,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 76328,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 80235,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 83009,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 82526,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 82088,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 82648,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 94240,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 112794,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 76915,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 227146,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 9085,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 15778,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 15273,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 22551,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 29638,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 32940,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 28876,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 25318,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 16448,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 5880,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 4950,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 4836,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 7548,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 7201,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 9968,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 2136,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 3043,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 3988,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 6620,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 6642,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 5870,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 3850,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 661732,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 788076,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 886133,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 858973,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 1291606,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 1365370,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 1605858,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 1840992,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 1134638,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 730631,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 660420,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 671519,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 544671,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 496396,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 528628,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 582241,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 13861,
+    "year": 2002,
+    "variable": "outflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 19938,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 83862,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 97425,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 240485,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 397915,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 509784,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 688203,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 726374,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 706950,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 778539,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 917722,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 639823,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 506052,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 84689,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 87950,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 95206,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 95976,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 95160,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 102594,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 160796,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 167072,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 166636,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 166612,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 157121,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 150755,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 164221,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 189868,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 212015,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 227544,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 25098,
+    "year": 2000,
+    "variable": "outflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 25369,
+    "year": 2001,
+    "variable": "outflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 28204,
+    "year": 2002,
+    "variable": "outflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 30268,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 32042,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 31704,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 40066,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 40856,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 38484,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 36713,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 44106,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 47320,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 53231,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 49113,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 52713,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 62634,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 266002,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 282395,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 285126,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 308156,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 302004,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 298321,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 130915,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 127846,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 131499,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 139792,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 138074,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 146689,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "Turkey",
+    "coCode": "TUR",
+    "value": 59552,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 516661,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 528852,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 888000,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 742000,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 804000,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 941000,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 273261,
+    "year": 2000,
+    "variable": "outflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 234021,
+    "year": 2001,
+    "variable": "outflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 1681414,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 2116960,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 2118288,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 1406754,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 1915395,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 2243902,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 2531388,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 2104249,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 2213651,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 2261040,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 2084696,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 2123475,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 2062596,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 1980370,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 2032187,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 2101222,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 37458,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 57828,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 59862,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 59311,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 63796,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 75789,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 96508,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 158256,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 136176,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 113461,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 127840,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 152674,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 210093,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 264285,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 275315,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 332849,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 1473,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 1910,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 2934,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 3857,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 3834,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 4423,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 2367,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 3309,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 2185,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 3230,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 2659,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 14170,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 35118,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 38007,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 24929,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 118365,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 115858,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 87105,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 80404,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 87353,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 62276,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 42541,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 310252,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 15082,
+    "year": 2001,
+    "variable": "outflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 19696,
+    "year": 2002,
+    "variable": "outflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 52358,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 43984,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 68812,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 66926,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 2808,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 363000,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 60244,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 83777,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 41190,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 21166,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 34662,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 33304,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 30134,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 3900,
+    "year": 2000,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 6504,
+    "year": 2001,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 9077,
+    "year": 2002,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 7602,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 11503,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 12741,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 21520,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 22730,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 14186,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 28010,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 21610,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 3891,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 3299,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 106731,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 121853,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 129526,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 127353,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 134359,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 144260,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 155111,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 173639,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 64826,
+    "year": 2000,
+    "variable": "outflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 57799,
+    "year": 2001,
+    "variable": "outflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 56975,
+    "year": 2002,
+    "variable": "outflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 60591,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 67442,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 69013,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 70311,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 69262,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 86585,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 94780,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 108994,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 18709,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 25996,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 20525,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 12104,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 9151,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 6450,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 4413,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 3829,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 3698,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 4707,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 7638,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 9930,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 7622,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 12261,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 14665,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 27762,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Denmark",
+    "coCode": "DNK",
+    "value": 40196,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 6339,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 3302,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 6886,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 6442,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 7722,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 7148,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 4655,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 2939,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 8043,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 11820,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 8036,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 6172,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 5724,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 5944,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 6381,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Finland",
+    "coCode": "FIN",
+    "value": 63576,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 79424,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 94439,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 101965,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 118716,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 116797,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 99141,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 61179,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 58413,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 70480,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 84236,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 96148,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 104259,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 109929,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 120146,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 116523,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "France",
+    "coCode": "FRA",
+    "value": 146963,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 154977,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 176341,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 142181,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 101066,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 71172,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 57769,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 42027,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 38298,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 44138,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 55298,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 82664,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 91479,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 128102,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 216431,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 338773,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Germany",
+    "coCode": "DEU",
+    "value": 864050,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 6161,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 10994,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 11328,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 16024,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 8769,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 17715,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 24328,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 50094,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 39653,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 31855,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 20546,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 18622,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 19153,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 16404,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 18290,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 22035,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 15600,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 19100,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 12810,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 4774,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 3173,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 3191,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 4211,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 6827,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 6223,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 9344,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 4199,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 3385,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 4275,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 36963,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 81351,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 346900,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 48,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 103,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 234,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 160,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 152,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 174,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 77,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 83,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 152,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 70,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 101,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 152,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 225,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 287,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 235,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Iceland",
+    "coCode": "ISL",
+    "value": 541,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 21847,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 20602,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 23208,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 15756,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 9531,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 8605,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 8626,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 7973,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 7732,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 5378,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 5344,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 3729,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 2043,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 1888,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 2487,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 6121,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 31127,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 19238,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 32028,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 26905,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 19444,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 19096,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 20691,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 28104,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 60645,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 35206,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 20104,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 68234,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 34380,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 51298,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 126023,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Italy",
+    "coCode": "ITA",
+    "value": 164224,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 417,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 682,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 482,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 672,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 835,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 748,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 1883,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 1618,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 3140,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 2776,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 2406,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 3734,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 5088,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 6509,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 9613,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 14788,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 74,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 172,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 290,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 824,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 556,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 1434,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 728,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 648,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 850,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 2022,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 2288,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 3148,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 5439,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 11001,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 1246,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 1282,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 2085,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 3099,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 3155,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 1604,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 1046,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 852,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 926,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 954,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 1488,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 4152,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 4054,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 1975,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 1647,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Luxembourg",
+    "coCode": "LUX",
+    "value": 4289,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 553,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 823,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 509,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 549,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 808,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 1372,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 960,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 747,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 634,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 1360,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 1505,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 86597,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 63981,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 36698,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 26044,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 18489,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 23332,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 27659,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 13915,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 26419,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 29810,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 26666,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 23180,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 18944,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 28094,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 41829,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Netherlands",
+    "coCode": "NLD",
+    "value": 82668,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 1551,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 3202,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 1992,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 1682,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 1159,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 696,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 552,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 486,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 508,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 672,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 680,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 610,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 647,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 583,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 335,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 431,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 21561,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 29352,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 34568,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 31526,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 15578,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 10584,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 10388,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 12532,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 27889,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 34451,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 20127,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 18105,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 20209,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 24193,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 22096,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Norway",
+    "coCode": "NOR",
+    "value": 59403,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 30784,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 41686,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 58781,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 58881,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 71829,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 9160,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 9025,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 10311,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 13817,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 16148,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 13705,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 8854,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 14396,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 14406,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 21174,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 13068,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 10172,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 18312,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 27660,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 12144,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Poland",
+    "coCode": "POL",
+    "value": 20253,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 447,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 465,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 490,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 173,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 226,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 228,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 256,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 448,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 321,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 278,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 320,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 550,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 594,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 1013,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 637,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 1525,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 3111,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 16299,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 19425,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 20618,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 22779,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 7088,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 5734,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 5281,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 1819,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 1644,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 1082,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 982,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 1277,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 562,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 342,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 458,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 15840,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 18957,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 12542,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 11777,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 11048,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 10443,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 10472,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 15296,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 9031,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 6014,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 5476,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 6697,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 5110,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 8989,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 11168,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Spain",
+    "coCode": "ESP",
+    "value": 26082,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 32194,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 46492,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 65173,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 60909,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 44744,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 34254,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 47824,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 71428,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 47655,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 48388,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 63646,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 59296,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 84789,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 101030,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 141461,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Sweden",
+    "coCode": "SWE",
+    "value": 303618,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 35221,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 41264,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 52241,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 41441,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 27789,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 19742,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 21068,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 20773,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 33127,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 32002,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 27034,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 38870,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 51569,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 38450,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 42915,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 74987,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Turkey",
+    "coCode": "TUR",
+    "value": 11368,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Turkey",
+    "coCode": "TUR",
+    "value": 10082,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Turkey",
+    "coCode": "TUR",
+    "value": 7587,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Turkey",
+    "coCode": "TUR",
+    "value": 7900,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Turkey",
+    "coCode": "TUR",
+    "value": 7813,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Turkey",
+    "coCode": "TUR",
+    "value": 7834,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Turkey",
+    "coCode": "TUR",
+    "value": 9105,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Turkey",
+    "coCode": "TUR",
+    "value": 15292,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Turkey",
+    "coCode": "TUR",
+    "value": 25873,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Turkey",
+    "coCode": "TUR",
+    "value": 15668,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Turkey",
+    "coCode": "TUR",
+    "value": 18451,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Turkey",
+    "coCode": "TUR",
+    "value": 32042,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Turkey",
+    "coCode": "TUR",
+    "value": 52927,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Turkey",
+    "coCode": "TUR",
+    "value": 89612,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Turkey",
+    "coCode": "TUR",
+    "value": 175161,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Turkey",
+    "coCode": "TUR",
+    "value": 266798,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 158095,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 141785,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 205955,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 119960,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 81100,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 61470,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 56545,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 55615,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 62500,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 61310,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 45259,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 51352,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 55079,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 58891,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 63301,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 78226,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 80207,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 118000,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 116076,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 85953,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 89309,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 78092,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 81929,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 80568,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 78284,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 76160,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 85936,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 121170,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 132216,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 134664,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 214307,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United States",
+    "coCode": "USA",
+    "value": 305924,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 6,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 24,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 18,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 28,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 28,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 22,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 14,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 28,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 28,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 72,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 60,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 134,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 154,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 194,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 180,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 369,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 12296,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 912,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 709,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 1861,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 1766,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 7108,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 10012,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 11878,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 6389,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 7908,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 11445,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 18488,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 3022,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 1404,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 2200,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 2451,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 3430,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 1036,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 850,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 476,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 366,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 486,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 742,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 569,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 485,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 557,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 386,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 31185,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 23037,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 17144,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 23681,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 34636,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 34694,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 51818,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 164613,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 36799,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 24720,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 26196,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 75666,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 68497,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 88070,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 78968,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 63838,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 51381,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 41551,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 45713,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 56042,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 69549,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 67938,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 45082,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 49959,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 40661,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 20562,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 25793,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Canada",
+    "coCode": "CAN",
+    "value": 30689,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 1256,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 985,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 1519,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 2196,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 29722,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 289137,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 137032,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 59202,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 65579,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 53924,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 43040,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 61040,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 141332,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 119100,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 97616,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 87066,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 73349,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 62724,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 66364,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 70916,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 660,
+    "year": 2000,
+    "variable": "outflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 148,
+    "year": 2001,
+    "variable": "outflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 308,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 315000,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 25633,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 24431,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 11669,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 8563,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 6382,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 6380,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 7009,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 7934,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 9523,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 12406,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 16490,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Australia",
+    "coCode": "AUS",
+    "value": 23010,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 36363,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 60047,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 78260,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 64315,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 49070,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 44545,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 26494,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 23656,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 25548,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 31639,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 22024,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Austria",
+    "coCode": "AUT",
+    "value": 28831,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 85245,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 49078,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 37335,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 33835,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 30556,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 31715,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 23041,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 22085,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 24362,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 34372,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 43510,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Belgium",
+    "coCode": "BEL",
+    "value": 52006,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "New Zealand",
+    "coCode": "NZL",
+    "value": 31248,
+    "year": 2000,
+    "variable": "outflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 321000,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 138,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 162,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 86,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 174,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 406,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 758,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 1146,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 1512,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 1744,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 1278,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 520,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 610,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 120269,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 86823,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 67045,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 46465,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 41695,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 42260,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 38415,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 36101,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 27305,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 29008,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 33116,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 33673,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 32996,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 33680,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 48094,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 55646,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 1384,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 3157,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 17487,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 36099,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 16820,
+    "year": 2002,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 22723,
+    "year": 2003,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 10739,
+    "year": 2004,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 8130,
+    "year": 2005,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 5808,
+    "year": 2006,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 3680,
+    "year": 2007,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 3374,
+    "year": 2008,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 2710,
+    "year": 2009,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 1958,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 1512,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 484770,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 547405,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 702322,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 663111,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 763702,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 770000,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 748000,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 759000,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 821000,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 983000,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 199315,
+    "year": 2002,
+    "variable": "outflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 200096,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 187244,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 204138,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 243390,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 247000,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 372000,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 343000,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 437000,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 318000,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "United Kingdom",
+    "coCode": "GBR",
+    "value": 326000,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovenia",
+    "coCode": "SVN",
+    "value": 1915,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 301,
+    "year": 2000,
+    "variable": "outflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 38743,
+    "year": 2001,
+    "variable": "outflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 58850,
+    "year": 2002,
+    "variable": "outflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 39315,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Hungary",
+    "coCode": "HUN",
+    "value": 4252,
+    "year": 2000,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 2084.923,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 138,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 70,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 146175,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 165137,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 169412,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 159258,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 165780,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 163836,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 179022,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 243753,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 277589,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 227481,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 95046,
+    "year": 2000,
+    "variable": "outflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 89010,
+    "year": 2001,
+    "variable": "outflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 83368,
+    "year": 2002,
+    "variable": "outflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 77456,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 80294,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 83889,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 89782,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 96729,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 91710,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Switzerland",
+    "coCode": "CHE",
+    "value": 93427,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 78,
+    "year": 2001,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 7787,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 21332,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Czech Republic",
+    "coCode": "CZE",
+    "value": 81746,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 86,
+    "year": 2000,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 2078,
+    "year": 2010,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 622845,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 632640,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 620688,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 674774,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 672531,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 662459,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 373910,
+    "year": 2000,
+    "variable": "outflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 416388,
+    "year": 2001,
+    "variable": "outflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 452480,
+    "year": 2002,
+    "variable": "outflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 464042,
+    "year": 2003,
+    "variable": "outflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 502174,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Japan",
+    "coCode": "JPN",
+    "value": 515051,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 140,
+    "year": 2002,
+    "variable": "outflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 226,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 454,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Portugal",
+    "coCode": "PRT",
+    "value": 153,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 959,
+    "year": 2004,
+    "variable": "outflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 995,
+    "year": 2005,
+    "variable": "outflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 808,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 637,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 697,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 879,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 818,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 760,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 465,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 432,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 438,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Estonia",
+    "coCode": "EST",
+    "value": 3967,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 38700,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 45400,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 50000,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 53600,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 51500,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 77100,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 100500,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 124700,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 96500,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 54600,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 26400,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 37800,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 34300,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 45100,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 53900,
+    "year": 2014,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 62200,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 22900,
+    "year": 2006,
+    "variable": "outflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 37100,
+    "year": 2007,
+    "variable": "outflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 39800,
+    "year": 2008,
+    "variable": "outflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 56700,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 43300,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 43200,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 44100,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 42000,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 43900,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Ireland",
+    "coCode": "IRL",
+    "value": 49400,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 17732,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 15732,
+    "year": 2009,
+    "variable": "outflow"
+  },
+  {
+    "country": "Greece",
+    "coCode": "GRC",
+    "value": 47125,
+    "year": 2010,
+    "variable": "outflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 89140,
+    "year": 2000,
+    "variable": "outflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 107248,
+    "year": 2001,
+    "variable": "outflow"
+  },
+  {
+    "country": "Korea",
+    "coCode": "KOR",
+    "value": 113975,
+    "year": 2002,
+    "variable": "outflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 6414,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 8053,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 5828,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 6945,
+    "year": 2003,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 8513,
+    "year": 2004,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 9172,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 6874,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 811,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 1296,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 1524,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Mexico",
+    "coCode": "MEX",
+    "value": 3420,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 4622,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 4723,
+    "year": 2001,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Slovak Republic",
+    "coCode": "SVK",
+    "value": 4784,
+    "year": 2002,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 168,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 249,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 282,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Chile",
+    "coCode": "CHL",
+    "value": 630,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 4760,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 5560,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 226,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Israel",
+    "coCode": "ISR",
+    "value": 5010,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Turkey",
+    "coCode": "TUR",
+    "value": 764,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 8209,
+    "year": 2015,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 3115,
+    "year": 2005,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 5910,
+    "year": 2008,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 4809,
+    "year": 2009,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 4847,
+    "year": 2010,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 5069,
+    "year": 2006,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 5914,
+    "year": 2007,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 2761,
+    "year": 2000,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 7308,
+    "year": 2013,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 335,
+    "year": 2011,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 378,
+    "year": 2012,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 369,
+    "year": 2013,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 650,
+    "year": 2014,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 596,
+    "year": 2015,
+    "variable": "asylumInflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 6681,
+    "year": 2011,
+    "variable": "outflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 4742,
+    "year": 2012,
+    "variable": "outflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 3411,
+    "year": 2013,
+    "variable": "outflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 1391,
+    "year": 2014,
+    "variable": "outflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 2563,
+    "year": 2015,
+    "variable": "outflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 2999,
+    "year": 2011,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 3666,
+    "year": 2012,
+    "variable": "foreignInflow"
+  },
+  {
+    "country": "Latvia",
+    "coCode": "LVA",
+    "value": 4446,
+    "year": 2014,
+    "variable": "foreignInflow"
+  }
+]
