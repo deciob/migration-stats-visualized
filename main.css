@@ -1,0 +1,104 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html, body {
+  color: #404040;
+  height: 100%;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+header {
+  height: 90px;
+  padding: 10px 5px 10px 5px;
+  margin: 0 5px 10px 5px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 1px;
+  grid-row-gap: 1px;
+  /*background-color: #fbfbfb;*/
+  /*border-bottom: 1px solid #ddd;*/
+}
+
+/*header > section {
+  background-color: #fff;
+}*/
+
+.legend {
+  display: inline-block;
+  padding: 10px 0 0 15px;
+}
+
+.legend:first-child {
+  padding-left: 0;
+}
+
+.legend:before {
+  content: "";
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  margin-right: 5px;
+}
+
+.outflow:before {
+  background: #abd9e9;
+}
+
+.foreignInflow:before {
+  background: #fdae61;
+}
+
+.asylumInflow:before {
+  background: #f46d43;
+}
+
+.all-viz-wrapper {
+  height: calc(100% - 140px);
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  grid-column-gap: 1px;
+  grid-row-gap: 1px;
+  background-color: #fff;
+}
+
+.viz-wrapper {
+  background-color: #fff;
+  position: relative;
+}
+
+.axis-g .domain {
+  stroke: #d8d8d8;
+}
+
+.axis-g .tick line {
+  stroke: #d8d8d8;
+}
+
+.axis-g .tick text {
+  fill: #545454;
+}
+
+.x-axis-g {
+  font-size: 13px;
+}
+
+.brush-g .selection {
+  fill: none;
+}
+
+footer {
+  font-size: 13px;
+  height: 20px;
+  padding: 5px 10px;
+}

@@ -1,6 +1,7 @@
 const fs = require('fs');
 const parse = require('csv-parse');
-const Readable = require('stream').Readable
+const Readable = require('stream').Readable;
+const transformData = require('./helpers').transformData;
 
 
 fs.unlinkSync(__dirname + '/data.json');
@@ -10,33 +11,7 @@ const output = fs.createWriteStream(__dirname + '/data.json');
 const s = new Readable;
 
 const parser = parse({columns: true}, (err, data) => {
-  const transformedData =
-    data.filter(d => {
-      if (d.Variable === 'Inflows of asylum seekers by nationality' ||
-      d.Variable === 'Inflows of foreign population by nationality' ||
-      d.Variable === 'Outflows of foreign population by nationality') {
-        return true;
-      }
-      return false;
-    })
-    .reduce((acc, d) => {
-      const asylum = d.Variable === 'Inflows of asylum seekers by nationality';
-      const outflows = d.Variable === 'Outflows of foreign population by nationality';
-      const variable = outflows ? 'outflow' : (asylum ? 'asylumInflow' : 'foreignInflow');
-      if (acc[d.COU + d.YEA + variable]) {
-        acc[d.COU + d.YEA + variable].value += +d.Value;
-      } else {
-        acc[d.COU + d.YEA + variable] = {
-          country: d.Country,
-          coCode: d.COU,
-          value: +d.Value,
-          year: +d.YEA,
-          variable: variable,
-        }
-      }
-      return acc;
-    }, {});
-
+  const transformedData = transformData(data);
   output.write(JSON.stringify(Object.values(transformedData), null, 2));
   output.end(null);
 });

@@ -7,9 +7,15 @@
   "license": "MIT",
   "devDependencies": {
     "csv": "^1.1.1",
+    "http-server": "^0.10.0",
+    "jest": "^20.0.4",
     "should": "^11.2.1"
   },
   "dependencies": {
-    "d3-chart-builder": "^0.0.3"
+    "d3-chart-builder": "^0.0.7"
+  },
+  "scripts": {
+    "start": "http-server -p 3003",
+    "test": "jest"
   }
 }
